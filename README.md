@@ -42,3 +42,19 @@ If your health reaches 0, you lose
 ✅ Talk to the Village Elder for guidance
 ✅ Avoid dangerous areas until necessary
 ✅ Plan your route to save health
+
+
+
+
+
+
+
+
+📥 Installation & Running the Game
+Run the Built Game (No Setup Required)
+If you just want to play the game, navigate to the built version and run it:
+
+Open the terminal and go to the game folder:
+cd /path/to/your/game/bin/Debug/net8.0
+Run the game:
+./game
