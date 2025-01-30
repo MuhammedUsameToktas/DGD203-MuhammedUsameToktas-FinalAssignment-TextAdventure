@@ -1,0 +1,14 @@
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/bin/Debug/net8.0/Game
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/bin/Debug/net8.0/Game.deps.json
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/bin/Debug/net8.0/Game.runtimeconfig.json
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/bin/Debug/net8.0/Game.dll
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/bin/Debug/net8.0/Game.pdb
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/obj/Debug/net8.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/obj/Debug/net8.0/Game.AssemblyInfoInputs.cache
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/obj/Debug/net8.0/Game.AssemblyInfo.cs
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/obj/Debug/net8.0/Game.csproj.CoreCompileInputs.cache
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/obj/Debug/net8.0/Game.dll
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/obj/Debug/net8.0/refint/Game.dll
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/obj/Debug/net8.0/Game.pdb
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/obj/Debug/net8.0/Game.genruntimeconfig.cache
+/Users/m.u.t/Desktop/University_S-2.1/GP1/GP1_Final/Game/obj/Debug/net8.0/ref/Game.dll
