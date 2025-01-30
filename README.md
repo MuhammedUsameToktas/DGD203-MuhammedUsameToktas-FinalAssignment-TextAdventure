@@ -1,7 +1,11 @@
-# DGD203-MuhammedUsameToktas-FinalAssignment-TextAdventure
+# DGD203-MuhammedUsameToktas-FinalAssignment-Dragon's Bane: The Quest for the Medallions
+
+
 DGD203 Game Programming 1 Final Assignment text adventure game
 
-DGD203 Text Adventure Game
+DGD203 Dragon's Bane: The Quest for the Medallions
+
+
 By: Muhammed Usame Toktas
 
 📜 How to Play
